@@ -8,7 +8,7 @@ I don't want to make my dotfiles flake any more bloated
 
 ## Credits
 
-(currently none)
+- thatonecalculator
 
 ## Licensing // take down requests and stuff
 
